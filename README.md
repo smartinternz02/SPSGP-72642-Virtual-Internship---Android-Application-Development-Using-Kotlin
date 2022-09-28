@@ -3,7 +3,7 @@
       Name - Abhist jain
 Google Developer Profile:- https://developers.google.com/profile/u/abhistjain
 
-GDrive Video Link:- https://drive.google.com/file/d/1V2Mp3lrwf5L31q7Q_yyuaugkIZUs8v1d/view?usp=sharing
+
 
 # Grocery Application
 In today’s digital era, everything is just a tap away. Whether you have to order food, do shopping, transfer money, book a cab, or more, all of these are just a few taps on your smartphone.
