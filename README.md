@@ -15,3 +15,8 @@ So, if are you are someone managing a startup, an established retailer, or an en
 So, without further ado, let’s dive deep into it!
 
 #Project -{https://github.com/smartinternz02/SPSGP-72642-Virtual-Internship---Android-Application-Development-Using-Kotlin.git}
+
+![Screenshot 2](https://user-images.githubusercontent.com/91110897/192899824-d9eafcf6-c8ab-4134-84c1-6d0ca73cec53.png)
+![Screenshot 3](https://user-images.githubusercontent.com/91110897/192899855-84b61fe6-2aeb-409c-a9e7-928aa4f73748.png)
+![Screenshot 4](https://user-images.githubusercontent.com/91110897/192899869-276de532-b408-4606-9b84-dbf330548f41.png)
+![Screenshot 5](https://user-images.githubusercontent.com/91110897/192899877-33e965ab-ad62-41a0-9702-20d92128eff2.png)
